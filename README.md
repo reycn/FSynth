@@ -6,7 +6,7 @@
 </p>
 An R package offering speed enhancements for Synthetic Control.  
   
-**Authors:** [Rongxin Ouyang](https://rongxin.me/cv), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)
+**Authors:** [Rongxin Ouyang](https://rongxin.me/cv), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)  
 **Last Update:** Oct., 2024  
 
 ## Usage
