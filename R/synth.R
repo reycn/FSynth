@@ -1,3 +1,10 @@
+sqrt <- .Primitive("sqrt")
+dim <- .Primitive("dim")
+sum <- .Primitive("sum")
+min <- .Primitive("min")
+max <- .Primitive("max")
+any <- .Primitive("any")
+
 synth <-
   function(data.prep.obj = NULL,
            X1 = NULL,
