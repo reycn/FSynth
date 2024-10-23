@@ -23,7 +23,7 @@ An R package offering speed enhancements for Synthetic Control.
     devtools::load_all("/local/path/to/repo")
     ```
 
-3. Use this package in the same way to the original package, [*Synth*](https://cran.r-project.org/web/packages/Synth/Synth.pdf) ([Abedie, 2010](https://www.jstatsoft.org/article/view/v042i13))
+3. Use this package in the same way to the original package, [*Synth*](https://cran.r-project.org/web/packages/Synth/Synth.pdf) ([Abadie, 2010](https://www.jstatsoft.org/article/view/v042i13))
 
     ```R
     dataprep()
