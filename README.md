@@ -9,6 +9,17 @@ An R package offering speed enhancements for Synthetic Control.
 **Authors:** [Rongxin Ouyang](https://rongxin.me/cv), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)  
 **Last Update:** Oct., 2024  
 
+## Performance
+
+- Normalizer: time lapsed - 98.67%, consistently improving with larger datasets
+- Full process: -8%
+
+<p align="left">
+  <img src="./figure/normal.bench.png" width="250" alt="accessibility text">
+  <img src="./figure/sizes.png" width="250" alt="accessibility text">
+  <img src="./figure/full.png" width="250" alt="accessibility text">
+</p>
+
 ## Usage
 
 1. Clone this repository:
@@ -34,17 +45,6 @@ An R package offering speed enhancements for Synthetic Control.
 
 - We vectorized the normalization process
 - We used `.Primitive("func")` functions
-
-## Performance
-
-- Normalizer: time lapsed - 98.67%, consistently improving with larger datasets
-- Full process: -8%
-
-<p align="left">
-  <img src="./figure/normal.bench.png" width="250" alt="accessibility text">
-  <img src="./figure/sizes.png" width="250" alt="accessibility text">
-  <img src="./figure/full.png" width="250" alt="accessibility text">
-</p>
 
 ## Our Paper
 
