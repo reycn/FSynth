@@ -30,6 +30,11 @@ An R package offering speed enhancements for Synthetic Control.
     synth()
     ```
 
+## Changes
+
+- We vectorized the normalization process
+- We used `.Primitive("func")` functions
+
 ## Performance
 
 - Normalizer: time lapsed - 98.67%, consistently improving with larger datasets
